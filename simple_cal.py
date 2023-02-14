@@ -12,3 +12,10 @@ if int(option) == 1:
     num2 = int(input("Enter num2: "))
     sum = num1 + num2
     print(sum)
+
+elif int(option) == 2:
+    num1 = int(input("Enter num1: "))
+    num2 = int(input("Enter num2: "))
+    sub = num1 - num2
+    print(sub)
+
